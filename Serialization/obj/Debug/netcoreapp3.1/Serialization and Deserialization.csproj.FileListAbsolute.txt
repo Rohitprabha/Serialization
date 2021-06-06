@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Serialization Example\bin\Debug\netcoreapp3.1\Serialization and Deserialization.exe
+C:\Users\Rohit Dasari\source\repos\Serialization Example\bin\Debug\netcoreapp3.1\Serialization and Deserialization.deps.json
+C:\Users\Rohit Dasari\source\repos\Serialization Example\bin\Debug\netcoreapp3.1\Serialization and Deserialization.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Serialization Example\bin\Debug\netcoreapp3.1\Serialization and Deserialization.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Serialization Example\bin\Debug\netcoreapp3.1\Serialization and Deserialization.dll
+C:\Users\Rohit Dasari\source\repos\Serialization Example\bin\Debug\netcoreapp3.1\Serialization and Deserialization.pdb
+C:\Users\Rohit Dasari\source\repos\Serialization Example\obj\Debug\netcoreapp3.1\Serialization and Deserialization.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Serialization Example\obj\Debug\netcoreapp3.1\Serialization and Deserialization.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Serialization Example\obj\Debug\netcoreapp3.1\Serialization and Deserialization.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Serialization Example\obj\Debug\netcoreapp3.1\Serialization and Deserialization.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Serialization Example\obj\Debug\netcoreapp3.1\Serialization and Deserialization.dll
+C:\Users\Rohit Dasari\source\repos\Serialization Example\obj\Debug\netcoreapp3.1\Serialization and Deserialization.pdb
+C:\Users\Rohit Dasari\source\repos\Serialization Example\obj\Debug\netcoreapp3.1\Serialization and Deserialization.genruntimeconfig.cache
